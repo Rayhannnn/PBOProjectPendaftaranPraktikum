@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/praktikum/TA-GUI---final-master/src/View/AslabGUI.java</file>
+            <file>file:/D:/praktikum/TA-GUI---final-master/src/Entity/PraktikanEntity.java</file>
+            <file>file:/D:/praktikum/TA-GUI---final-master/src/Model/AslabModel.java</file>
+            <file>file:/D:/praktikum/TA-GUI---final-master/src/Controller/AllObjectModel.java</file>
+            <file>file:/D:/praktikum/TA-GUI---final-master/src/Model/PraktikanModel.java</file>
+            <file>file:/D:/praktikum/TA-GUI---final-master/src/Entity/DaftarprakEntity.java</file>
+            <file>file:/D:/praktikum/TA-GUI---final-master/src/Controller/AdminController.java</file>
+            <file>file:/D:/praktikum/TA-GUI---final-master/src/Model/DaftarprakModel.java</file>
+            <file>file:/D:/praktikum/TA-GUI---final-master/src/MainClass/Main.java</file>
+            <file>file:/D:/praktikum/TA-GUI---final-master/src/Controller/ControllerInterface.java</file>
+            <file>file:/D:/praktikum/TA-GUI---final-master/src/Controller/PraktikanController.java</file>
+            <file>file:/D:/praktikum/TA-GUI---final-master/src/View/PraktikanGUI.java</file>
+            <file>file:/D:/praktikum/TA-GUI---final-master/src/Entity/AslabEntity.java</file>
+            <file>file:/D:/praktikum/TA-GUI---final-master/src/Entity/MahasiswaAbstractEntity.java</file>
+            <file>file:/D:/praktikum/TA-GUI---final-master/src/Entity/PraktikumEntity.java</file>
+            <file>file:/D:/praktikum/TA-GUI---final-master/src/Model/ModelInterfaces.java</file>
+            <file>file:/D:/praktikum/TA-GUI---final-master/src/View/Allobjctrl.java</file>
+            <file>file:/D:/praktikum/TA-GUI---final-master/src/View/GUI.java</file>
+        </group>
+    </open-files>
+</project-private>
